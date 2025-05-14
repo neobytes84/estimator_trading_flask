@@ -61,4 +61,4 @@ Puede acceder a los servicios navegando y utilizando un navegador web
 El primer paso para crear la aplicación es importar Flask e inicializar la aplicación como se indicó anteriormente. Flask se encargará de las solicitudes entrantes, y devolverá los calculos financieros basados en el DataFrame que se ha creado con Pandas.
 ## Conclusión
 
-Una vez ejecutada la aplicación en el servidor, se genera autoámticamente la base de datos con SQLite3 y a la par, genera archivos .csv. Este tipo de sistema nos permite implementarlo hacia una un proyecto más escalable, como por ejemplo: implementar un monitoring and logging en tiempo real, predicciones trading en tiempo real, incluso automatizar job stores y task scheduler a través de ETL(pipelines).
+Una vez ejecutada la aplicación en el servidor, se genera automáticamente la base de datos con SQLite3 y a la par, genera archivos .csv. Este tipo de sistema nos permite implementarlo hacia una un proyecto más escalable, como por ejemplo: implementar un monitoring and logging en tiempo real, trading predictions en tiempo real, incluso automatizar job stores y task scheduler a través de ETL(pipelines).
